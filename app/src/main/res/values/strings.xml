@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExcellExporter</string>
+    <string name="importx">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+</resources>
